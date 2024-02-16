@@ -11,7 +11,7 @@ My name is Ruan Vinícius (a.k.a. vini), I live in RS/Brazil and my main goal is
 
 - Age: 24
 - Stack: Laravel | Angular | Vue 
-- University: Formado em Ciencia da Computacao
+- University: Graduated in Computer Science (ULBRA)
 - Tech Knowledge: RabbitMQ | Redis | Firebase | MySQL | MariaDB | Postgres | Typescript | Javascript | Karma | Jasmine | PHPUnit | Bootstrap | Scss | Css
 ---
 # Curiosities about last projects 🔎
